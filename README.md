@@ -13,4 +13,5 @@ The simplest way to use multiple images as input to a CNN is to merge their chan
 
 We can take the images as greyscale or RGB. For merging two RGB images, we convert two three channel images into one six channel image. Greyscale is simpler; we convert two one channel images into one two channel image. These images can't be viewed (not clearly at least) in their current state, so this notebook demonstrates how to view the images after preprocessing, as well as how the preprocessing is performed.
 
-![Dog and Cat - Front and Side](https://user-images.githubusercontent.com/50206336/212646734-639d6cba-28b0-4c74-a28a-70f00f49e9cf.png)
+![A Dog and Cat - Front and Side](https://user-images.githubusercontent.com/50206336/212647027-2dba4f5b-fae7-43f7-b8cc-f64b5bb79b97.png)
+
