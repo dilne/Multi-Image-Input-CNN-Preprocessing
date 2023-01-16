@@ -1,4 +1,4 @@
-# Multi-Image-Input-CNN-Preprocessing 🖼️🖼️ = 🖼️
+# Multi-Image-Input-CNN-Preprocessing 🖼️+🖼️ = 🖼️
 <a href="https://colab.research.google.com/github/dilne/Multi-Image-Input-CNN-Preprocessing/blob/main/NotebookAndGuide.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
