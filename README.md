@@ -12,3 +12,5 @@ Sometimes, you want multiple images as input to a CNN. This notebook contains ea
 The simplest way to use multiple images as input to a CNN is to merge their channels. In this example, we have two images of a cat and two images of a dog. The two cat images are of the same cat taken from the front and side and the dog images are of the same dog taken from the front and side. Each image has a width, height, and channels (e.g 512, 512, 3).
 
 We can take the images as greyscale or RGB. For merging two RGB images, we convert two three channel images into one six channel image. Greyscale is simpler; we convert two one channel images into one two channel image. These images can't be viewed (not clearly at least) in their current state, so this notebook demonstrates how to view the images after preprocessing, as well as how the preprocessing is performed.
+
+![Dog and Cat - Front and Side](https://user-images.githubusercontent.com/50206336/212646734-639d6cba-28b0-4c74-a28a-70f00f49e9cf.png)
