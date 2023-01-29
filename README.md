@@ -6,7 +6,7 @@
 ## Summary
 This notebook tutorial demonstrates how to preprocess image data for inputting multiple images into a CNN. It provides easy-to-use code for preparing your images for multi-image input in a CNN and includes a detailed walkthrough of the process.
 
-## How It Works
+## How it Works
 The easiest way to input multiple images into a CNN is to merge their channels. In this example, we use two images of a cat and two images of a dog, taken from different angles (front and side). Each image has a width, height, and number of channels (e.g 512, 512, 3). We can use the images in greyscale or RGB format.
 
 For merging two RGB images, we convert them into one six channel image. For greyscale images, we convert two one channel images into one two channel image. The resulting images are not easily viewable, so this notebook also includes instructions for viewing the images after preprocessing.
